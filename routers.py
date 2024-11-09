@@ -38,4 +38,4 @@ def rtb():
 
 
 if __name__ == "__main__":
-    uvicorn.run(wingman, host="192.168.1.4", port=5000)
+    uvicorn.run(wingman, host="localhost", port=2024)
