@@ -23,8 +23,8 @@ def get_api_version():
 
 @wingman.post("/launch")
 def launch(waypoints_data: waypoints):
-    wingman_services().get_waypoints(waypoints_data)
-    return True
+    final_payload=wingman_services().get_waypoints(waypoints_data)
+    return final_payload
 
 
 @wingman.post("/stop")
