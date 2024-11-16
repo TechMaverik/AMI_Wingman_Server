@@ -15,7 +15,7 @@ def waypoint_1_2(waypoints_data: waypoints):
         target_longitude,
     )
     payload = {
-        "drone_name": "wa_drone_1",
+        "drone_name": "A.M.I Wingbot Quad Sim",
         "waypoint": "waypoint_1_2",
         "current_latitude":str(current_latitude),
         "current_longitude":str(current_longitude),
@@ -41,7 +41,7 @@ def waypoint_2_3(waypoints_data: waypoints):
         target_longitude,
     )
     payload = {
-        "drone_name": "wa_drone_1",
+        "drone_name": "A.M.I Wingbot Quad Sim",
         "waypoint": "waypoint_2_3",
         "current_latitude":str(current_latitude),
         "current_longitude":str(current_longitude),
@@ -67,7 +67,7 @@ def waypoint_3_4(waypoints_data: waypoints):
         target_longitude,
     )
     payload = {
-        "drone_name": "wa_drone_1",
+        "drone_name": "A.M.I Wingbot Quad Sim",
         "waypoint": "waypoint_3_4",
         "current_latitude":str(current_latitude),
         "current_longitude":str(current_longitude),
@@ -93,7 +93,7 @@ def waypoint_4_5(waypoints_data: waypoints):
         target_longitude,
     )
     payload = {
-        "drone_name": "wa_drone_1",
+        "drone_name": "A.M.I Wingbot Quad Sim",
         "waypoint": "waypoint_4_5",
         "current_latitude":str(current_latitude),
         "current_longitude":str(current_longitude),
@@ -119,7 +119,7 @@ def waypoint_5_6(waypoints_data: waypoints):
         target_longitude,
     )
     payload = {
-        "drone_name": "wa_drone_1",
+        "drone_name": "A.M.I Wingbot Quad Sim",
         "waypoint": "waypoint_5_6",
         "current_latitude":str(current_latitude),
         "current_longitude":str(current_longitude),
@@ -145,7 +145,7 @@ def waypoint_6_7(waypoints_data: waypoints):
         target_longitude,
     )
     payload = {
-        "drone_name": "wa_drone_1",
+        "drone_name": "A.M.I Wingbot Quad Sim",
         "waypoint": "waypoint_6_7",
         "current_latitude":str(current_latitude),
         "current_longitude":str(current_longitude),
